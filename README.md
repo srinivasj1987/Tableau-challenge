@@ -12,4 +12,4 @@ The csv were combined using a python code. This code is present in the folder da
 ## Analysis
 ### 1. Total number of rides summer vs winter
 People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather.
-September 2019 had the lowest number of records, while April 2020 had the lowest number of records.
+December 2022 had the lowest number of records, while August 2022 had the highest number of records.
