@@ -8,3 +8,8 @@ https://public.tableau.com/views/NY_bike/Story1?:language=en-US&publish=yes&:dis
 
 ## Data Preparation
 The csv were combined using a python code. This code is present in the folder data under combining_csv.ipynb. This generates a data that is close to 1.2 million records. The level of information is sufficient to understand trends.
+
+## Analysis
+### 1. Number of Records
+Total number of records were 12 billion. People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather.
+September 2019 had the lowest number of records, while April 2020 had the lowest number of records.
