@@ -31,5 +31,6 @@ In Summer, Monday to Saturday sees high cycle volume while sunday sees the lowes
 <img width="1463" alt="Screenshot 2023-09-04 at 19 43 00" src="https://github.com/srinivasj1987/Tableau-challenge/assets/132161799/5515435e-a53a-4308-8e8c-7cd555950e8c">
 
 ###5 . Bike popularity and Member vs Non-member usage.
-Of the 3 types of bikes provided, classic, docked and electric, the most popular is the classic bike. The Docked bike is used solely by non-members and not by members. The Electric bike is used by both members and non members but it isnt as popular as the classic bike.
+Of the 3 types of bikes provided, classic, docked and electric, the most popular is the classic bike. The Docked bike is used solely by non-members and not by members. The Electric bike is used by both members and non members but it isnt as popular as the classic bike. Members use the citibike service more than non-members.<img width="1463" alt="Screenshot 2023-09-04 at 20 07 06" src="https://github.com/srinivasj1987/Tableau-challenge/assets/132161799/d527ac4b-5884-49cb-af42-7262b737cd69">
+
 
