@@ -18,7 +18,7 @@ The maximum increase in % for number of rides was seen for the month of April an
 <img width="1463" alt="Screenshot 2023-09-04 at 19 41 52" src="https://github.com/srinivasj1987/Tableau-challenge/assets/132161799/046471ed-4aa2-4340-9fed-2f4bafd582fb">
 
 ### 2. Top/Bottom Ten Stations
-Top ten stations for both ending and starting a journey are Grove St PATH and Hoboken Terminal.
+Top ten stations for both ending and starting a journey are Grove St PATH and Hoboken Terminal. Locations near Train stations have high volume of trips starting and ending indicating that people use this service to connect to railways.
 <img width="1463" alt="Screenshot 2023-09-04 at 19 42 21" src="https://github.com/srinivasj1987/Tableau-challenge/assets/132161799/bc074039-63d3-434f-aefa-83c74ef614b2">
 
 ### 3. Peak Hours
