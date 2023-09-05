@@ -8,7 +8,7 @@ https://public.tableau.com/views/NY_bike/Story1?:language=en-US&publish=yes&:dis
 
 
 ## Data Preparation
-The csv were combined using a python code. This code is present in the folder data under combining_csv.ipynb. This generates a data that is close to 980k records. The level of information is sufficient to understand trends.
+The csv were combined using a python code. This code is present in the folder data under combining_csv.ipynb. This generates a data that is close to 980k records. The level of information is sufficient to understand trends. Since the csv file was too large it couldnt be uploaded to github.
 
 ## Analysis
 ### 1. Total number of rides
